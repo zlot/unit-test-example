@@ -1,7 +1,7 @@
 {
   "name": "detect-a-palindrome",
   "version": "0.0.1",
-  "description": "Example of writing a function to detect a palindrome, and testing solution.",
+  "description": "Example of writing a function to detect a palindrome, and unit-testing the solution.",
   "main": "is-palindrome.js",
   "scripts": {
     "test": "test/test.js"
