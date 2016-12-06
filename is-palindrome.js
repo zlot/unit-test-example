@@ -1,11 +1,3 @@
-/*
- * See: https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/?utm_source=javascriptweekly&utm_medium=email
- * I applied for a js internship at hootsuite, the questions were write a function to detect a palindrome and to debug a slow jquery script (dom lookup was inside a loop)
- */
-
-
-'use strict';
-
 module.exports = {
     isPalindrome: isPalindrome
 };
